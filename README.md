@@ -1,4 +1,4 @@
-# Drova Bots UI
+# Drova Bots
 
 ![Drova Bots Showcase](public/images/bots.png)
 
